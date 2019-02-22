@@ -65,58 +65,58 @@ activeblogs:
   rss: http://tangocherie.blogspot.com/feeds/posts/default
   tag:
 
-- title: 
-  author: 
-  url:
-  rss:
+- title: "Angelina's Tango Blog"
+  author: Angelina
+  url: http://www.tangoaustralia.com.au/
+  rss: http://www.tangoaustralia.com.au/feeds/posts/default
   tag:
 
-- title: 
-  author: 
-  url:
-  rss:
+- title: "My Tango Diaries"
+  author: Mari K Johnson
+  url: http://www.mytangodiaries.com/
+  rss: http://www.mytangodiaries.com/feeds/posts/default
   tag:
 
-- title: 
-  author: 
-  url:
-  rss:
+- title: "Tango Voice - The Voice of Tango Argentino for North America"
+  author: Tango Voice
+  url: https://tangovoice.wordpress.com/
+  rss: https://tangovoice.wordpress.com/feed/
   tag:
 
-- title: 
-  author: 
-  url:
-  rss:
+- title: "Tanda of the Week"
+  author: Antti Suniala 
+  url: http://tandaoftheweek.blogspot.com/
+  rss: http://tandaoftheweek.blogspot.com/feeds/posts/default
   tag:
 
-- title: 
-  author: 
-  url:
-  rss:
+- title: "Simba Tango - Reflexiónes de un león"
+  author: Simba
+  url: http://simbatango.com/
+  rss: http://simbatango.com/index.xml
   tag:
 
-- title: 
-  author: 
-  url:
-  rss:
+- title: "Tango Chamuyo - The milongas and milongueros of Buenos Aires"
+  author: Jantango
+  url: https://jantango.wordpress.com/
+  rss: https://jantango.wordpress.com/feed/
   tag:
 
-- title: 
+- title: "Tango Words - How can we know the dancer from the dance? William Butler Yeats"
   author: 
-  url:
-  rss:
+  url: https://tangowords.wordpress.com/
+  rss: https://tangowords.wordpress.com/feed/
   tag:
 
-- title: 
-  author: 
-  url:
-  rss:
+- title: "Today in Tango"
+  author: Anon
+  url: https://todayintango.wordpress.com/
+  rss: https://todayintango.wordpress.com/feed/
   tag:
 
-- title: 
-  author: 
-  url:
-  rss:
+- title: "La Vida Con Deby - The not so secret life of an American woman in Buenos Aires. Tango, late nights, and a whole new identity."
+  author: Deby Novitz
+  url: https://tangospam.typepad.com/
+  rss: https://tangospam.typepad.com/tangospam_la_vida_con_deb/atom.xml
   tag:
 
 - title: 
