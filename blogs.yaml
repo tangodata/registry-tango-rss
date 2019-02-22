@@ -17,7 +17,7 @@ activeblogs:
   rss: https://wisconsintango.wordpress.com/feed/
   tag:
   
-- title: "mshedgehog"
+- title: "Mshedgehog"
   author: Ms Hedgehog 
   url: http://mshedgehog.blogspot.com/
   rss: http://mshedgehog.blogspot.com/feeds/posts/default
@@ -96,7 +96,7 @@ activeblogs:
   tag:
 
 - title: "Tango Chamuyo - The milongas and milongueros of Buenos Aires"
-  author: Jantango
+  author: Janis Kenyon
   url: https://jantango.wordpress.com/
   rss: https://jantango.wordpress.com/feed/
   tag:
@@ -119,10 +119,58 @@ activeblogs:
   rss: https://tangospam.typepad.com/tangospam_la_vida_con_deb/atom.xml
   tag:
 
-- title: 
+- title: "In Search of Tango"
   author: 
-  url:
+  url: http://yangningyuan.blogspot.com/
   rss:
+  tag:
+
+- title: "Tango Life"
+  author: Tangogeoff
+  url: https://tangogeoff.blogspot.com/
+  rss: https://tangogeoff.blogspot.com/feeds/posts/default
+  tag:
+
+- title: "LadyLeader"
+  author: Anon
+  url: http://leadingladyl.blogspot.com/
+  rss: http://leadingladyl.blogspot.com/feeds/posts/default
+  tag:
+
+- title: "DDPs Favourite Tandas"
+  author: Derrick Del Pilar
+  url: https://ddpsfavoritetandas.wordpress.com/
+  rss: https://ddpsfavoritetandas.wordpress.com/feed/
+  tag:
+
+- title: YYQuest Tango Blog
+  author: Louis Shue
+  url: http://tango.yyquest.net/
+  rss: http://tango.yyquest.net/feed/
+  tag:
+
+- title: "Tangoblogblog"
+  author: Anon
+  url: https://tangoblogblog.wordpress.com/
+  rss: https://tangoblogblog.wordpress.com/feed/
+  tag:
+
+- title: "Stephen Twist"
+  author: Stephen Twist
+  url: https://stephentwist.blogspot.com/
+  rss: https://stephentwist.blogspot.com/feeds/posts/default
+  tag:
+
+- title: "¡Caramba!"
+  author: Le Paloranta
+  url: http://carambatango.blogspot.com/
+  rss: http://carambatango.blogspot.com/feeds/posts/default
+  tag:
+
+- title: "Nancy Learns the Tango"
+  author: Nancy
+  url: https://nancylearnsthetango.com/
+  rss: https://nancylearnsthetango.com/feed/
   tag:
 
 - title: 
@@ -166,19 +214,6 @@ activeblogs:
   url:
   rss:
   tag:
-
-- title: 
-  author: 
-  url:
-  rss:
-  tag:
-
-- title: 
-  author: 
-  url:
-  rss:
-  tag:
-
 
 #####################################################
 inactiveblogs:
