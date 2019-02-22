@@ -1,0 +1,96 @@
+# This list of Tango Blogs is scraped from the Internet
+# If any Blog chooses to opt out please comment it 
+
+#####################################################
+activeblogs:
+#####################################################
+
+- title: "Andrea's Tango Site - World of Argentine Tango"
+  author: Andrea Bindereif
+  url: https://andreastangosite.com/
+  rss: https://andreastangosite.com/feed/
+  tag:
+  
+- title: "Wisconsin Tango Blog - Thoughts on the non-technical side of Argentine Tango, and what it takes to be an effective dancer"
+  author: Joe Yang
+  url: https://wisconsintango.wordpress.com/
+  rss: https://wisconsintango.wordpress.com/feed/
+  tag:
+  
+- title: "mshedgehog"
+  author: Ms Hedgehog 
+  url: http://mshedgehog.blogspot.com/
+  rss: http://mshedgehog.blogspot.com/feeds/posts/default
+  tag:
+  
+- title: "Melina’s Two Cents"
+  author: Melina Sodo 
+  url: https://melinas-two-cent.blogspot.com/
+  rss: https://melinas-two-cent.blogspot.com/feeds/posts/default
+  tag:
+  
+- title: "Tango Immigrant"
+  author: Tango Immigrant
+  url: http://tangoimmigrant.blogspot.com/
+  rss: http://tangoimmigrant.blogspot.com/feeds/posts/default
+  tag:
+  
+- title: 
+  author: 
+  url:
+  rss:
+  tag:
+
+- title: 
+  author: 
+  url:
+  rss:
+  tag:
+
+- title: 
+  author: 
+  url:
+  rss:
+  tag:
+
+- title: 
+  author: 
+  url:
+  rss:
+  tag:
+
+- title: 
+  author: 
+  url:
+  rss:
+  tag:
+
+#####################################################
+inactiveblogs:
+#####################################################
+- title: 
+  author: 
+  url:
+  rss:
+  tag:
+
+- title: 
+  author: 
+  url:
+  rss:
+  tag:
+
+- title: 
+  author: 
+  url:
+  rss:
+  tag:
+
+- title: 
+  author: 
+  url:
+  rss:
+  tag:
+
+
+  
