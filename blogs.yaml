@@ -30,11 +30,59 @@ activeblogs:
   tag:
   
 - title: "Tango Immigrant"
-  author: Tango Immigrant
+  author: Trud
   url: http://tangoimmigrant.blogspot.com/
   rss: http://tangoimmigrant.blogspot.com/feeds/posts/default
   tag:
   
+- title: "Irene and Man Yung's Tango Blog"
+  author: Irene and Man Yung
+  url: http://ireneandmanyung.blogspot.com/
+  rss: http://ireneandmanyung.blogspot.com/feeds/posts/default
+  tag:
+
+- title: "Alex.Tango.Fuego - On Life, Tango, and the Universe.."
+  author: Alex
+  url: http://alextangofuego.blogspot.com/
+  rss: http://alextangofuego.blogspot.com/feeds/posts/default
+  tag:
+
+- title: "The life of a frustrated Milonguero"
+  author: Tangogales
+  url: https://tangogales.wordpress.com/
+  rss: https://tangogales.wordpress.com/feed/
+  tag:
+
+- title: "Tango Therapist - Reflections on the powerfully therapeutic Four M's of Argentine Tango: Music, Movement,eMbrace, and Mindfulness"
+  author: Mark Word
+  url: https://tango-therapist.blogspot.com/
+  rss: https://tango-therapist.blogspot.com/feeds/posts/default
+  tag:
+
+- title: "tangocherie in Los Angeles"
+  author: Cherie Magnus
+  url: http://tangocherie.blogspot.com/
+  rss: http://tangocherie.blogspot.com/feeds/posts/default
+  tag:
+
+- title: 
+  author: 
+  url:
+  rss:
+  tag:
+
+- title: 
+  author: 
+  url:
+  rss:
+  tag:
+
+- title: 
+  author: 
+  url:
+  rss:
+  tag:
+
 - title: 
   author: 
   url:
@@ -64,6 +112,73 @@ activeblogs:
   url:
   rss:
   tag:
+
+- title: 
+  author: 
+  url:
+  rss:
+  tag:
+
+- title: 
+  author: 
+  url:
+  rss:
+  tag:
+
+- title: 
+  author: 
+  url:
+  rss:
+  tag:
+
+- title: 
+  author: 
+  url:
+  rss:
+  tag:
+
+- title: 
+  author: 
+  url:
+  rss:
+  tag:
+
+- title: 
+  author: 
+  url:
+  rss:
+  tag:
+
+- title: 
+  author: 
+  url:
+  rss:
+  tag:
+
+- title: 
+  author: 
+  url:
+  rss:
+  tag:
+
+- title: 
+  author: 
+  url:
+  rss:
+  tag:
+
+- title: 
+  author: 
+  url:
+  rss:
+  tag:
+
+- title: 
+  author: 
+  url:
+  rss:
+  tag:
+
 
 #####################################################
 inactiveblogs:
