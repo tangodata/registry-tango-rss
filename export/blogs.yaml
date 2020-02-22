@@ -10,258 +10,253 @@ activeblogs:
   url: https://andreastangosite.com/
   rss: https://andreastangosite.com/feed/
   tag:
+  slug: andrea-tango-site
   
 - title: "Wisconsin Tango Blog - Thoughts on the non-technical side of Argentine Tango, and what it takes to be an effective dancer"
   author: Joe Yang
   url: https://wisconsintango.wordpress.com/
   rss: https://wisconsintango.wordpress.com/feed/
   tag:
+  slug: wisconsin-tango-blog
   
 - title: "Mshedgehog"
   author: Ms Hedgehog 
   url: http://mshedgehog.blogspot.com/
   rss: http://mshedgehog.blogspot.com/feeds/posts/default
   tag:
+  slug: mshedgehog
   
 - title: "Melina’s Two Cents"
   author: Melina Sodo 
   url: https://melinas-two-cent.blogspot.com/
   rss: https://melinas-two-cent.blogspot.com/feeds/posts/default
   tag:
+  slug: melinas-two-cents
   
 - title: "Tango Immigrant"
   author: Trud
   url: http://tangoimmigrant.blogspot.com/
   rss: http://tangoimmigrant.blogspot.com/feeds/posts/default
   tag:
+  slug: tango-immigrant
   
 - title: "Irene and Man Yung's Tango Blog"
   author: Irene and Man Yung
   url: http://ireneandmanyung.blogspot.com/
   rss: http://ireneandmanyung.blogspot.com/feeds/posts/default
   tag:
+  slug: irene-man-yung
 
 - title: "Alex.Tango.Fuego - On Life, Tango, and the Universe.."
   author: Alex
   url: http://alextangofuego.blogspot.com/
   rss: http://alextangofuego.blogspot.com/feeds/posts/default
   tag:
+  slug: alex-tango-fuego
 
 - title: "The life of a frustrated Milonguero"
   author: Tangogales
   url: https://tangogales.wordpress.com/
   rss: https://tangogales.wordpress.com/feed/
   tag:
+  slug: tangogales
 
 - title: "Tango Therapist - Reflections on the powerfully therapeutic Four M's of Argentine Tango: Music, Movement,eMbrace, and Mindfulness"
   author: Mark Word
   url: https://tango-therapist.blogspot.com/
   rss: https://tango-therapist.blogspot.com/feeds/posts/default
   tag:
+  slug: tango-therapist
 
 - title: "tangocherie in Los Angeles"
   author: Cherie Magnus
   url: http://tangocherie.blogspot.com/
   rss: http://tangocherie.blogspot.com/feeds/posts/default
   tag:
+  slug: tangocherie
 
 - title: "Angelina's Tango Blog"
   author: Angelina
   url: http://www.tangoaustralia.com.au/
   rss: http://www.tangoaustralia.com.au/feeds/posts/default
   tag:
+  slug: angelinas-tango-blog
 
 - title: "My Tango Diaries"
   author: Mari K Johnson
   url: http://www.mytangodiaries.com/
   rss: http://www.mytangodiaries.com/feeds/posts/default
   tag:
+  slug: my-tango-diaries
 
 - title: "Tango Voice - The Voice of Tango Argentino for North America"
   author: Tango Voice
   url: https://tangovoice.wordpress.com/
   rss: https://tangovoice.wordpress.com/feed/
   tag:
+  slug: tango-voice
 
 - title: "Tanda of the Week"
   author: Antti Suniala 
   url: http://tandaoftheweek.blogspot.com/
   rss: http://tandaoftheweek.blogspot.com/feeds/posts/default
   tag:
+  slug: tanda-of-the-week
 
 - title: "Simba Tango - Reflexiónes de un león"
   author: Simba
   url: http://simbatango.com/
   rss: http://simbatango.com/index.xml
   tag:
+  slug: simba-tango
 
 - title: "Tango Chamuyo - The milongas and milongueros of Buenos Aires"
   author: Janis Kenyon
   url: https://jantango.wordpress.com/
   rss: https://jantango.wordpress.com/feed/
   tag:
+  slug: tango-chamuyo
 
 - title: "Tango Words - How can we know the dancer from the dance? William Butler Yeats"
   author: 
   url: https://tangowords.wordpress.com/
   rss: https://tangowords.wordpress.com/feed/
   tag:
+  slug: tango-words
 
 - title: "Today in Tango"
   author: Anon
   url: https://todayintango.wordpress.com/
   rss: https://todayintango.wordpress.com/feed/
   tag:
+  slug: today-in-tango
 
 - title: "La Vida Con Deby - The not so secret life of an American woman in Buenos Aires. Tango, late nights, and a whole new identity."
   author: Deby Novitz
   url: https://tangospam.typepad.com/
   rss: https://tangospam.typepad.com/tangospam_la_vida_con_deb/atom.xml
   tag:
+  slug: la-vida-con-deby
 
 - title: "In Search of Tango"
   author: 
   url: http://yangningyuan.blogspot.com/
   rss:
   tag:
+  slug: in-search-of-tango
 
 - title: "Tango Life"
   author: Tangogeoff
   url: https://tangogeoff.blogspot.com/
   rss: https://tangogeoff.blogspot.com/feeds/posts/default
   tag:
+  slug: tangogeoff
 
 - title: "LadyLeader"
   author: Anon
   url: http://leadingladyl.blogspot.com/
   rss: http://leadingladyl.blogspot.com/feeds/posts/default
   tag:
+  slug: ladyleader
 
 - title: "DDPs Favourite Tandas"
   author: Derrick Del Pilar
   url: https://ddpsfavoritetandas.wordpress.com/
   rss: https://ddpsfavoritetandas.wordpress.com/feed/
   tag:
+  slug: ddps-fav-tandas
 
 - title: YYQuest Tango Blog
   author: Louis Shue
   url: http://tango.yyquest.net/
   rss: http://tango.yyquest.net/feed/
   tag:
+  slug: yyquest
 
 - title: "Tangoblogblog"
   author: Anon
   url: https://tangoblogblog.wordpress.com/
   rss: https://tangoblogblog.wordpress.com/feed/
   tag:
+  slug: tangoblogblog
 
 - title: "Stephen Twist"
   author: Stephen Twist
   url: https://stephentwist.blogspot.com/
   rss: https://stephentwist.blogspot.com/feeds/posts/default
   tag:
+  slug: stephen-twist
 
 - title: "¡Caramba!"
   author: Le Paloranta
   url: http://carambatango.blogspot.com/
   rss: http://carambatango.blogspot.com/feeds/posts/default
   tag:
+  slug: carambatango
 
 - title: "Nancy Learns the Tango"
   author: Nancy
   url: https://nancylearnsthetango.com/
   rss: https://nancylearnsthetango.com/feed/
   tag:
+  slug: nancy-learns-the-tango
 
 - title: "Tango Salón - Adelaide"
   author: Bob Youngson + Pat Petronio
   url: https://tangosalonadelaide.blogspot.com/
   rss: https://tangosalonadelaide.blogspot.com/feeds/posts/default
   tag:
+  slug: tangosalonadelaide
 
 - title: "Life Is a Tango - A blog about tango, life and how the two are interconnected"
   author: Andrea Shepherd
   url: http://lifeisatango.blogspot.com/
   rss: http://lifeisatango.blogspot.com/feeds/posts/default
   tag:
+  slug: lifeisatango
 
 - title: Auckland Tango
   author: Anon
   url: https://aucklandtango.co.nz/
   rss: https://aucklandtango.co.nz/feed/
   tag:
+  slug: aucklandtango
 
 - title: "Bautanz"
   author: Chrisa Assis
   url: https://bautanz.com/
   rss: https://bautanz.com/feed/
   tag:
+  slug: bautanz
 
 - title: "Tango Folly"
   author: Anon
   url: https://tangofolly.com/
   rss: https://tangofolly.com/feed/
   tag:
+  slug: tangofolly
 
 - title: "030tango"
   author: Anon
   url: https://www.030tango.com/
   rss: https://www.030tango.com/feed/
   tag:
+  slug: 030tango
 
 - title: "Tango High and Low"
   author: Anon
   url: https://tango-high-and-low.com/
   rss: https://tango-high-and-low.com/feed/
   tag:
+  slug: tango-high-and-low
 
 - title: "Tango Better"
   author: Anon
   url: https://www.tangobetter.com/
   rss: https://www.tangobetter.com/feed.xml
   tag:
+  slug: tango-better
 
-- title: 
-  author: 
-  url:
-  rss:
-  tag:
-
-- title: 
-  author: 
-  url:
-  rss:
-  tag:
-
-- title: 
-  author: 
-  url:
-  rss:
-  tag:
-
-- title: 
-  author: 
-  url:
-  rss:
-  tag:
-
-- title: 
-  author: 
-  url:
-  rss:
-  tag:
-
-- title: 
-  author: 
-  url:
-  rss:
-  tag:
-
-- title: 
-  author: 
-  url:
-  rss:
-  tag:
 
 #####################################################
 inactiveblogs:
@@ -289,6 +284,3 @@ inactiveblogs:
   url:
   rss:
   tag:
-
-
-  
